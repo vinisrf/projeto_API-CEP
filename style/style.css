@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    height: 100vh;
+}
+#div-input{
+    border: 1px solid;
+    height: 100%;
+}
+button{
+    height: 30px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
